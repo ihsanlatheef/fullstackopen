@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+
+{
+    "title": "Why You Feel Unproductive And What To Do",
+    "author": "Leon Ho",
+    "url": "https://www.lifehack.org/947869/unproductive"
+}
